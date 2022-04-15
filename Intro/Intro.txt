@@ -1,0 +1,7 @@
+Node is runtime for JavaScript so we can run JavaScript outside Browser.
+
+LTS version is Good.
+
+LTS means Long Term Support Version
+
+Even version is stable and we must use Even version of Node.
