@@ -1,0 +1,21 @@
+Synchronous means Line by Line if one line take time then next lines will be waiting for that line of code to execute.
+it is not good at all.
+
+Synchronous means Blocking the code.
+
+Asynchronous means Non Blocking the code.
+Fetch Request is Asynchronous Javascript Example.
+
+Node JS is Single Threaded Language
+
+so when any javascript code is running it will be taking only single thread from cpu memory.
+
+When many user is using one Node Application, there will be only one thread for all user so code must be Asynchronous
+so one user not block other users task or processes.
+
+if it Synchronous then for one user all other users will have to wait for execution to finish.
+
+Asynchronous mean Non Blocking I/O Model.
+in asynchronous code we use callback function to perform the task and
+like if this process finish do this and so on.
+

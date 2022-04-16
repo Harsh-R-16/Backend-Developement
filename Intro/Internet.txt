@@ -1,0 +1,64 @@
+How we communicate on internet.
+
+in real life we communicate with pyhsical address.
+
+in address location name could be same but pincode always different from other pincodes.
+
+on internet communication we send http requests
+
+http requests contains always headers.
+
+Headers contains IP address.
+
+255.255.255.255 
+
+Sneder IP address and Receiver IP address
+
+we required also port number of the receiver and sender.
+ip address and port number is must in communication on internet.
+
+we will have range of port number. by default is 3000.
+
+Client Server architecture
+Client means frontend and Server means Backend.
+
+1 tier vs 2 tier.
+
+when client and server is in one system then it is 1 tier architecture
+when client and server is in two different systems it is 2 tier architecture.
+
+2 tier architecture is good for server
+
+business logic and frontend is different in 2 tier architecture.
+
+thread means processor for computational power.
+
+module means chunk of code for performing particular tasks.
+
+module types
+
+- custom module (we created and exported)
+- core module (inbuilt modules like http or fs)
+- thirt party module (we import to use this)
+
+port is logical door to server.
+
+so when i call in company it say me type 1 to talk with person1
+type 2 for talking with person2 and so on
+
+so Phone Number is same but output is different .
+
+so on computer many port are there for running different applications
+so base is same but ports are different
+
+computer is same but port is different.
+
+So port listen activity on that port what user is requesting for.
+
+DNS Domain Name System.
+
+DNS connect Domain Name with IP Address of Sender.
+
+SCHEME http or https
+HOST website name.extension 
+PORT some number

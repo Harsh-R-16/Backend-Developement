@@ -5,3 +5,25 @@ LTS version is Good.
 LTS means Long Term Support Version
 
 Even version is stable and we must use Even version of Node.
+
+What is Node JS?
+
+Node JS is the JavaScript runtime built on Google's Open Source V8 Javascript Engine.
+
+So Person who has created Node JS has taken Help of Chrome V8 and modified some code and created NodeJS.
+
+Node has more Functionality than V8 Engine.
+we can use Backend with node JS but browser doesn't support Backend.
+Node js as Web Server.
+
+Node js is Single Threaded, Based on Event Driven, Non-blocking I/O model.
+Fast and Scalable then other frameworks for backend.
+
+We can Build Real-time Chat Application Server Side Application Data Streaming Application.
+
+We should not use Node JS when Application with heavy server side processing is required.
+
+Node is Popular today because today node has many open source libraries available for free.
+
+Node Package Manager NPM
+
