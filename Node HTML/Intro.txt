@@ -1,0 +1,27 @@
+Core module
+custom module
+thirt party module
+
+we need dependencies while built environment when we create run build then all dependencies code imported in main file.
+
+development dependencies vs runtime dependencies
+nodemon is runtime dependencies
+while other dependencies are development dependencies......
+
+
+version number 1.1.1
+
+major version.minor version.patch version
+patch version(minor bugs fix)
+new change but not major change(minor version)
+
+npm outdated to see any outdated packages in our projects.
+if all packages are up to date then it will give no output.
+
+for installing perticaler version package we use the version number
+like npm install express@1.1.2 something like that 
+
+and now run npm outdated it will list express current version and latest version
+
+npm uninstall packagename for uninstalling package
+

@@ -1,5 +1,5 @@
-Synchronous means Line by Line if one line take time then next lines will be waiting for that line of code to execute.
-it is not good at all.
+Synchronous means Line by Line if one line take time then next lines will be waiting for that line
+of code to execute. it is not good at all.
 
 Synchronous means Blocking the code.
 

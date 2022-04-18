@@ -1,0 +1,20 @@
+A browser is known as Client and it sends requests to Server.
+Server give HTML, CSS, JavaScript and browser build web page from that Files.
+
+It is called Request Response Model or Client Server Model
+
+Client requests from Different URLs and
+Url contains Protocol / Domain Name / Resource
+https://www.google.com/maps 
+
+google or domain name is not name of server but it is just easy name for users to use.
+actually we will be sending requests to google ip address
+DNS converts Domain Name to Server Address.
+
+Our Internet Service Provider converts domain to actual server address
+DNS converts Domain Name to real IP address of Server Address
+
+we write http://www.google.com but DNS converts to real IP address of Server
+like https://216.58.211.158:443
+
+this works on TCP/IP protocol.

@@ -1,0 +1,36 @@
+We need Database to store data permenent for future use.
+we can store data in memory while programming is running but for permenent storage we use databases.
+SQL and NoSQL are databases
+
+SQL in form of table and NoSQL in form object.
+
+in SQL we have One Database and in has many tables which are related to each others.
+
+in SQL structure is always there before inserting data.
+
+in NoSQL we use collection
+
+collection and document in NoSQL.
+Structure not matter in NoSQL Database.
+Database --> collection --> document
+
+below is one collection containing 2 documents
+{
+    "Name":"Harsh",
+    "Age":20
+},
+{
+    "First Name":"Harsh",
+    "Age":20
+}
+key called field.
+
+in SQL we required to give Schema but NoSQL is flexible we and any field in database.
+SQL field must be same where in NoSQL database field can br radical different
+
+Scaling Vertical vs Horizontal 
+
+Database contains collection in NoSQL and collections contains documents.
+Database contains tables in SQL and tables contains rows.
+
+

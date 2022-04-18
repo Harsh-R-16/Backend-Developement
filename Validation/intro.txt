@@ -1,0 +1,5 @@
+we need validation in backend because on front end side we can bypass the validation
+so it is good to have backend validation is must.
+
+NPM node package manager is used for managing the node versions
+
