@@ -1,3 +1,5 @@
+What is MVC Architecture?
+
 Model View Controller or MVC as it is popularly called is a software design pattern for developing web applications
 A Model View Controller pattern is made up of the following three parts.
 
